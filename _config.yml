@@ -1,21 +1,21 @@
-typography_spectrum: 0.9965592557564378
+layout_spectrum: 0.3602106769103557
+typography_spectrum: 0.5050483669620007
 color:
-  brandStrength: 0.9734191768802702
-  lightness: 0.7470371199306101
-  saturation: 0.1201872827950865
-  rhythmicContrast: 0.018880814546719193
+  brandStrength: 0.887372539145872
+  lightness: 0.23286549421027303
+  saturation: 0.788898783037439
+  rhythmicContrast: 0.8346637182403356
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
+    - '#010101'
+    - '#B1B0AB'
+    - '#F2EEEB'
+    - '#736987'
+    - '#383643'
 opengraph:
   appId: '574667839304032'
   type: Apps for Pages
   image: >-
     https://the-grid-user-content.s3-us-west-2.amazonaws.com/3ca78438-e0eb-49b4-967d-bc2b62ae5724.png
-layout_spectrum: 0.5438818328548223
 author:
   name: Bianca Mauro
   email: bianca@thegrownupproject.org
