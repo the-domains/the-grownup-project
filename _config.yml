@@ -10,6 +10,11 @@ color:
     - '#FFFCE8'
     - '#3E363F'
     - '#DD403A'
+opengraph:
+  appId: '574667839304032'
+  type: Apps for Pages
+  image: >-
+    https://the-grid-user-content.s3-us-west-2.amazonaws.com/3ca78438-e0eb-49b4-967d-bc2b62ae5724.png
 layout_spectrum: 0.5438818328548223
 author:
   name: Bianca Mauro
