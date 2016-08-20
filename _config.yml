@@ -23,5 +23,9 @@ author:
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/2896551e-94f4-4f67-bd98-9b1bd04c4144.png
 name: The GrownUp Project
+navigation:
+  - name: About Us
+    id: 3fb1c85c-435e-43e7-8f0e-ac954bdea480
+    type: content
 title: The GrownUp Project
 description: picture a happier you
