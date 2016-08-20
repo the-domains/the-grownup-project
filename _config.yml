@@ -1,4 +1,3 @@
-layout_spectrum: 0.3602106769103557
 typography_spectrum: 0.5050483669620007
 color:
   brandStrength: 0.887372539145872
@@ -16,6 +15,7 @@ opengraph:
   type: Apps for Pages
   image: >-
     https://the-grid-user-content.s3-us-west-2.amazonaws.com/3ca78438-e0eb-49b4-967d-bc2b62ae5724.png
+layout_spectrum: 0.3602106769103557
 author:
   name: Bianca Mauro
   email: bianca@thegrownupproject.org
@@ -23,5 +23,5 @@ author:
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/2896551e-94f4-4f67-bd98-9b1bd04c4144.png
 name: The GrownUp Project
-title: rediscover your happy
+title: The GrownUp Project
 description: rediscover your happy
