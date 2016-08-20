@@ -1,31 +1,14 @@
-typography_spectrum: 0.5050483669620007
+layout_spectrum: 0.5438818328548223
+typography_spectrum: 0.9965592557564378
 color:
-  brandStrength: 0.887372539145872
-  lightness: 0.23286549421027303
-  saturation: 0.788898783037439
-  rhythmicContrast: 0.8346637182403356
+  brandStrength: 0.9734191768802702
+  lightness: 0.7470371199306101
+  saturation: 0.1201872827950865
+  rhythmicContrast: 0.018880814546719193
   brandColors:
-    - '#010101'
-    - '#B1B0AB'
-    - '#F2EEEB'
-    - '#736987'
-    - '#383643'
-opengraph:
-  appId: '574667839304032'
-  type: Apps for Pages
-  image: >-
-    https://the-grid-user-content.s3-us-west-2.amazonaws.com/3ca78438-e0eb-49b4-967d-bc2b62ae5724.png
-layout_spectrum: 0.3602106769103557
-author:
-  name: Bianca Mauro
-  email: bianca@thegrownupproject.org
-  url: www.thegrownupproject.org
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/2896551e-94f4-4f67-bd98-9b1bd04c4144.png
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
 name: The GrownUp Project
-navigation:
-  - name: About Us
-    id: 3fb1c85c-435e-43e7-8f0e-ac954bdea480
-    type: content
-title: The GrownUp Project
-description: picture a happier you
