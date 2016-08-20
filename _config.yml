@@ -1,4 +1,3 @@
-layout_spectrum: 0.5438818328548223
 typography_spectrum: 0.9965592557564378
 color:
   brandStrength: 0.9734191768802702
@@ -6,9 +5,11 @@ color:
   saturation: 0.1201872827950865
   rhythmicContrast: 0.018880814546719193
   brandColors:
-    - '#010101'
-    - '#B1B0AB'
-    - '#F2EEEB'
-    - '#736987'
-    - '#383643'
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+layout_spectrum: 0.5438818328548223
 name: The GrownUp Project
+title: The GrownUp Project
